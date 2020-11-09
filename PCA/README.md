@@ -1,4 +1,4 @@
 ## PCA
 
 
-![Word Cloud](Images/PCA_Algorithm_A.png) ![Word Cloud](Images/PCA_Algorithm_B.png)
+![Word Cloud, fff](Images/PCA_Algorithm_A.png,Images/PCA_Algorithm_B.png) ![Word Cloud](Images/PCA_Algorithm_B.png)

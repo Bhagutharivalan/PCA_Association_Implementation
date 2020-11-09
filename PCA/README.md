@@ -48,8 +48,10 @@ Author: **Praveen Mohan**
 * The output of PCA scratch implementation is compared with the predefined PCA function and other dimentionality reduction algorithms like t-distributed Stochastic Neighbor Embedding (t-SNE) and Singular Value Decomposition (SVD).
 * The output of all the four algorithms on the above mentioned data were plotted and the performance of the same were evealuated.
 
-**DD**
 
+**Results of file pca_a.txt which contains Biomedical data of diseases like Hypertension, Asthma, Arrhythmia**
 ![Data A](Images/A.png)
+**Results of file pca_b.txt which contains Biomedical data of diseases like Septic, **
 ![Data B](Images/B.png)
+**Results of file pca_c.txt which contains Biomedical data of diseases like Hypertension, Asthma, Arrhythmia**
 ![Data C](Images/C.png)

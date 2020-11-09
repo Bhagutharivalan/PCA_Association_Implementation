@@ -1,8 +1,6 @@
 
 # Dimensionality Reduction: Principle Component Analysis Algorithm 
 
-Author: **Praveen Mohan** 
-
 ---
 
 ## Introduction

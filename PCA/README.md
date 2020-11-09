@@ -1,4 +1,10 @@
-## PCA
 
+# Dimensionality Reduction: Principle Component Analysis Algorithm 
 
-![Word Cloud](Images/B.png) 
+Author: **Praveen Mohan** 
+
+---
+
+## Introduction
+
+* *PCA is a linear dimensionality reduction algorithm which reduces the high dimensional high correlated data into a low dimensional uncorrelated data.*

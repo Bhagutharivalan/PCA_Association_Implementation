@@ -19,8 +19,8 @@ Author: **Praveen Mohan**
 2. Drop the final column of the data frame since final column is the response variable of the dataset and store it in a variable for plotting purpose.
 3. Transform the higher dimensions present in the data frame to the numpy array for matrix operation.
 4. Calculate the mean value for each dimension of the numpy array and calculate the mean centered matrix by subtracting the original datapoints with the corresponding mean value of the dimension.
-5. Transpose the mean centered matrix and use numpy.cov() to calculate the covariance of the transposed matrix.
-6. Now calculate the eigen vectors and eigen values using numpy.linalg.eig() function.
+5. Transpose the mean centered matrix and use `numpy.cov()` to calculate the covariance of the transposed matrix.
+6. Now calculate the eigen vectors and eigen values using `numpy.linalg.eig()` function.
 7. Select the first 2 columns of the eigen vectors which gives the maximum variability of the original dataset.
 8. Calculate the Principal components (Lower dimensional data) by multiplying the original data with the eigen vectors.
 9. Finally merge the response column to the principal components dataframe.

@@ -1,7 +1,6 @@
 
 # Dimensionality Reduction: Principle Component Analysis Algorithm 
 
----
 
 ## Introduction
 

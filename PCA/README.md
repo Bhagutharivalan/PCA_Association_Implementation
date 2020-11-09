@@ -49,9 +49,9 @@ Author: **Praveen Mohan**
 * The output of all the four algorithms on the above mentioned data were plotted and the performance of the same were evealuated.
 
 
-**Results of file pca_a.txt which contains Biomedical data of diseases like Hypertension, Asthma, Arrhythmia**
+**Results of file pca_a.txt which contains Biomedical data of diseases like Hypertension, Asthma, Arrhythmia.**
 ![Data A](Images/A.png)
-**Results of file pca_b.txt which contains Biomedical data of diseases like Septic, **
+**Results of file pca_b.txt which contains Biomedical data of diseases like Septic, TB, HVD, CA, CD.**
 ![Data B](Images/B.png)
-**Results of file pca_c.txt which contains Biomedical data of diseases like Hypertension, Asthma, Arrhythmia**
+**Results of file pca_c.txt which contains Biomedical data of diseases like AML, Breast, Cancer, ALL, COPD, Obesity, Diabetes, Colen Cancer.**
 ![Data C](Images/C.png)

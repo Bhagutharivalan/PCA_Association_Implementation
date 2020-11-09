@@ -55,3 +55,15 @@ Author: **Praveen Mohan**
 ![Data B](Images/B.png)
 **Results of file pca_c.txt which contains Biomedical data of diseases like AML, Breast, Cancer, ALL, COPD, Obesity, Diabetes, Colen Cancer.**
 ![Data C](Images/C.png)
+
+---
+
+## Inference 
+
+1. From the scatter plots shown above we can see that graphs obtained from PCA and SVD algorithms are closely related to one another.
+2. It is because both PCA and SVD compute Eigen values and Eigen Vectors for dimensionality reduction and removes the highly correlated columns in the high dimensional data.
+3. The final dimensions obtained from PCD and SCA algorithms are uncorrelated and orthogonal in nature.
+4. When mean centered data (normalized data) is given to the SVD algorithm, it gives similar plot as of PCA algorithm.
+5. Both PCA and SVD can capture only the linear trend in data for dimensionality reduction, but t-SNE uses probabilistic approach to capture nonlinear trend in data as well.
+6. Since t-SNE uses gradient descent algorithm, we get different plots each time we run the code.
+---
